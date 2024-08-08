@@ -1,4 +1,4 @@
-# On Premise Chatbot
+# Local Chatbot
 
 Local chatbot with Ollama & fastHTML
 
